@@ -1,0 +1,11 @@
+table, th, td, tr{
+  border-collapse: collapse;
+  width: 70%;
+  border: 1px solid black;
+  text-align: center;
+  padding: 15px;
+  font-family: Verdana, sans-serif;
+
+}
+
+  
